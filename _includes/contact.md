@@ -2,11 +2,11 @@
 
 <h2 style="margin: 30px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/10+Bd+Thomas+Gobert,+91120+Palaiseau/@48.7124352,2.194429,17z/data=!3m1!4b1!4m6!3m5!1s0x47e678bdc3c9eee5:0xb68bc1fb5222c860!8m2!3d48.7124317!4d2.1970093!16s%2Fg%2F11h2c29d0k?entry=ttu">10 Bd Thomas Gobert, 91120 Palaiseau</a>
+<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/%E5%B9%BF%E5%B7%9E%E9%A6%99%E6%B8%AF%E7%A7%91%E5%A4%A7%E9%9C%8D%E8%8B%B1%E4%B8%9C%E7%A0%94%E7%A9%B6%E9%99%A2/@22.749725,113.6048481,17z/data=!3m1!4b1!4m6!3m5!1s0x3403b9bca383d5f5:0xffa8a09cf8c40954!8m2!3d22.749725!4d113.607423!16s%2Fg%2F1vnnfzwk?entry=ttu">E3（C9）L5 502, HKUST (GZ)</a>
 <br />
-<strong>Office Location:</strong> Centre de Nanosciences et de Nanotechnologies
+<strong>Office Location:</strong> ……
 <br />
-<strong>Email:</strong> <email>song.chen (at) spin-ion.com</email>
+<strong>Email:</strong> <email>zixuanyuan@hkust-gz.edu.cn</email>
 <br />
 <!-- <strong>Phone:</strong> </p> -->
 <!-- <p style="text-align: left;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeFJTf6Nq_juYt4YNHpMSA5JOIDjsyAG3BjNEWdyAJfhfO11w/viewform?embedded=true&hl=en" width="640" scrolling="no" height="780" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p> -->
