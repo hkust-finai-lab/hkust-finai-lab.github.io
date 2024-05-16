@@ -8,15 +8,15 @@ layout: homepage
 
 Zixuan Yuan is an Assistant Professor at the FinTech Thrust, HKUST (Guangzhou). He received his Ph.D. in Management (Information Technology track) from Rutgers University. His research interests lie in the general area of **urban computing** and **financial applications**, particularly in **spatiotemporal analysis**, **meta learning**, **self-supervised learning**, **knowledge graphs**, and **probabilistic graphical models**, as well as their applications in **POI recommendation**, **quantitative trading**, **event-driven investing**, and **knowledge graph reasoning**. He has research experience in multiple industrial research labs, such as **IBM Research**, **Baidu Research**, and **RavenPack**. He has published in refereed journals and conference proceedings, such as **IEEE TKDE**, **IEEE IOTJ**, **ACM SIGKDD**, **SIGIR**, **WWW**, and **AAAI**.
 
-<span style="color:blue">**Multiple positions are available for self-motivated Ph.D. students and RAs. Visiting students are also welcome. Please check here for more information. Thanks!**</span>
+**<span style="color:#e74d3c">Multiple positions are available for self-motivated Ph.D. students and RAs. Visiting students are also welcome. Please check here for more information. Thanks!</span>**
 
 ## Research Interest:
 
-- **Ion-material Simulation:** SRIM, iradina, SDTrimSP, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Spatiotemporal Analysis:** ……
+- **Meta Learning:** ……
+- **Self-supervised Learning** ……
+- **Knowledge Graphs**
+- **Probabilistic Graphical Model** ……
   {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
