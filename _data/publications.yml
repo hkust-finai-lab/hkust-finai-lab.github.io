@@ -4,11 +4,10 @@ main:
     authors: <strong>Zixuan Yuan</strong>, Hao Liu, Haoyi Zhou, Denghui Zhang, Xiao Zhang, Hao Wang, Hui Xiong
     conference_short: AAAI 2024.
     conference: The 38th Annual AAAI Conference on Artificial Intelligence
-    pdf: e.g. ./assets/files/multi.pdf
-    page: e.g. https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: e.g. ./assets/files/multi.txt
-    # image: ./assets/files/multi.jpg
-    image: ./assets/files/multi.jpg
+    pdf: ./assets/files/Self-Paced.pdf
+    page: https://ojs.aaai.org/index.php/AAAI/article/view/29601
+    bibtex: ./assets/files/Self-Paced.txt
+    image: ./assets/files/Self-Paced.jpg
     notes: Published
 
   - title: ……
