@@ -19,6 +19,8 @@ Zixuan Yuan is an Assistant Professor at the FinTech Thrust, HKUST (Guangzhou). 
 - **Probabilistic Graphical Model** ……
   {% include_relative _includes/news.md %}
 
+{% include_relative _includes/education.md %}
+
 {% include_relative _includes/projects.md %}
 
 {% include_relative _includes/publications.md %}
