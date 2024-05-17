@@ -6,24 +6,26 @@ main:
     pdf: https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/203473b6-7ebe-4a1a-bc06-0a1883bab60f/content
     web: https://scholarspace.manoa.hawaii.edu/items/8ba36c1d-9603-4eae-af06-95d52d57b1ce
     image: ./assets/files/RL.jpg
-    notes: pulished
-
-  - title: ……
-    authors: Ziyuan Xuan
-    conference_short: ……
-    conference: ……
-    pdf: e.g. ./assets/files/JEMS2023_Song.pdf
-    web: e.g. https://www.jems2023.es/
-    image: e.g. ./assets/files/JEMS2023_2.jpg
     notes: Accepted
 
-  - title: ……
-    conference_short: ……
-    conference: ……
-    abstract: ……
-    pdf: e.g. https://bemagic-etn.eu/images/files2023/BeMAGIC_Conference_Torino_2023.pdf
-    web: e.g. https://bemagic-etn.eu/news/79-bemagic-conference-in-torino-2023-post-event
-    image: e.g. ./assets/img/Group_picture.jpg
+  - title: Learning to Walk with Dual Agents for Knowledge Graph Reasoning
+    authors: Denghui Zhang*, <strong>Zixuan Yuan*</strong>, Hao Liu, Xiaodong Lin, and Hui Xiong
+    conference_short: AAAI 2022
+    conference: In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence
+    pdf: https://arxiv.org/pdf/2112.12876
+    web: https://arxiv.org/abs/2112.12876
+    image: ./assets/files/two.jpg
+    notes: Accepted
+
+  - title: Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning
+    authors: Denghui Zhang, Yanchi Liu, <strong>Zixuan Yuan</strong>, Yanjie Fu, Haifeng Chen, Hui Xiong
+    conference_short: TKDE 2022
+    conference: IEEE Transactions on Knowledge and Data Engineering
+    #abstract: ……
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9869708
+    web: https://ieeexplore.ieee.org/document/9869708
+    image: ./assets/files/multi-faceted.jpg
+    notes: Accepted
 
   - title: ……
     conference_short: ……
