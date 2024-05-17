@@ -27,4 +27,6 @@ Zixuan Yuan is an Assistant Professor at the FinTech Thrust, HKUST (Guangzhou). 
 
 {% include_relative _includes/conference.md %}
 
+{% include_relative _includes/Prospective Students.md %}
+
 {% include_relative _includes/contact.md %}
