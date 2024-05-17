@@ -2,7 +2,10 @@ main:
 
   - title: "Contact"
     url: ./#contact 
-    right: true 
+    right: true
+
+  - title: "Prospective Students"
+    url: ./#prospective_students
 
   - title: "Conferences & Events"
     url: ./#conferences
@@ -13,11 +16,11 @@ main:
   - title: "Projects"
     url: ./#projects
 
+  - title: "Education"
+    url: ./#education
+
   - title: "News"
     url: ./#news
-
-  - title: "Blogs"
-    url: ./blog/
 
   - title: "Bio"
     url: ./#about-me
