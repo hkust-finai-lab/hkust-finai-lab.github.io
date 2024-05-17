@@ -27,35 +27,72 @@ main:
     image: ./assets/files/multi-faceted.jpg
     notes: Accepted
 
-  - title: ……
-    conference_short: ……
-    conference:  ……
-    abstract: ……
-    #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
-    web: e.g. https://bemagic-etn.eu/news/68-bemagic-winter-school-post-event
-    image: e.g. ./assets/img/eth.jpg
+  - title: Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching
+    authors: <strong>Zixuan Yuan</strong>, Hao Liu, Junming Liu, Yanchi Liu, Yang Yang, Renjun Hu, and Hui Xiong
+    conference_short: WWW 2021
+    conference:  In Proceedings of the 28th World Wide Web Conference
+    #abstract: ……
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3442381.3449810
+    web: https://dl.acm.org/doi/abs/10.1145/3442381.3449810?casa_token=B8b8_rGOp9oAAAAA:DL3l8hOiyYSZyCub3raogjFgotfGwTQ8B30nWIq2jYV66F0rSBR3313GAzPvNfOJXckPn9Pjbduc
+    image: ./assets/files/STGL.jpg
+    notes: Accepted
 
-  - title: ……
-    conference_short: ……
-    conference:  ……
-    abstract: ……
-    #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
-    web: e.g. https://bemagic-etn.eu/news/73-joint-workshop-bemagic-magnefi-at-aalto-university-post-event
-    image: e.g. ./assets/img/joint.jpg
+  - title: Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment
+    authors: Denghui Zhang, <strong>Zixuan Yuan</strong>, Yanchi Liu, Hao Liu, Zuohui Fu, Fuzhen Zhuang, Hui Xiong, and Haifeng Chen
+    conference_short: KDD 2021
+    conference: The 27rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2021) (Research Track)
+    #abstract: ……
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3447548.3467215
+    web: https://dl.acm.org/doi/abs/10.1145/3447548.3467215?casa_token=vVhtjEfms0MAAAAA:zR_x1a4Ccil2l-296TCSdd0YqVFNV09bzXJlq_2ZSdOgKknefyq80ZXZqClpbzuP5rY6wgITpoQt
+    image: ./assets/files/domain.jpg
+    notes: Accepted
 
-  - title: ……
-    conference_short: ……
-    conference:  ……
-    abstract: ……
-    #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
-    web: e.g. https://bemagic-etn.eu/news/62-bemagic-summer-school-post-event
-    image: e.g. ./assets/img/Portada-cc58d654.jpg
+  - title: Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
+    authors: Shengming Zhang, Hao Zhong, <strong>Zixuan Yuan</strong>, and Hui Xiong
+    conference_short: KDD 2021
+    conference: The 27rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2021) (Research Track)
+    #abstract: ……
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3447548.3467383
+    web: https://dl.acm.org/doi/abs/10.1145/3447548.3467383?casa_token=sckoE4LzrGMAAAAA:A9lF2JzD_0vp-mMo2ela7PRHKB96ueUUwynBY8iUawoMmxlVcUBWCtVYdwWqiNiFtuqBqXeVRwpD
+    image: ./assets/files/scalable.jpg
+    notes: Accepted
 
-  - title: ……
-    conference_short: ……
-    conference:  ……
-    abstract: ……
-    pdf: e.g. https://bemagic-etn.eu/images/files2022/BeMagic_Workshop_GTECM_agenda.pdf
-    web: e.g. https://bemagic-etn.eu/news/77-bemagic-workshop-at-gtecm-post-event
-    image: e.g. ./assets/img/lF0ulCNA.jpeg
+  - title: Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling
+    authors: <strong>Zixuan Yuan</strong>, Hao Liu, Renjun Hu, Denghui Zhang, and Hui Xiong
+    conference_short: AAAI 2022
+    conference: In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence
+    #abstract: ……
+    pdf: ./assets/files/self-supervised.pdf
+    web: https://ojs.aaai.org/index.php/AAAI/article/view/16594
+    image: ./assets/files/self-supervised.jpg
+    notes: Accepted
 
+  - title: Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IOT
+    authors: Zekai Chen, Dingshuo Chen, Xiao Zhang, <strong>Zixuan Yuan</strong>, and Xiuzhen Cheng
+    conference_short: IEEE 2021
+    conference: IEEE Internet of Things Journal 2021
+    #abstract: ……
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9497343
+    web: https://ieeexplore.ieee.org/abstract/document/9497343
+    image: ./assets/files/LG.jpg
+    notes: Accepted
+
+  - title: Spatio-Temporal Dual Graph Attention Network for Query-POI Matching
+    authors: <strong>Zixuan Yuan*</strong>, Hao Liu*, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu, and Hui Xiong
+    conference_short: SIGIR 2020
+    conference: Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 629-638. 2020.
+    #abstract: ……
+    pdf: ./assets/files/STDGAT.pdf
+    web: https://www.researchgate.net/publication/342215590_Spatio-Temporal_Dual_Graph_Attention_Network_for_Query-POI_Matching
+    image: ./assets/files/STDGAT.jpg
+    notes: Accepted
+
+  - title: E-BERT：A Phrase and Product Knowledge Enhanced Language Model for E-Commerce
+    authors: Denghui Zhang, <strong>Zixuan Yuan*</strong>, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong
+    conference_short: WWW 2021
+    conference: In Proceedings of the 28th World Wide Web Conference
+    #abstract: ……
+    pdf: https://arxiv.org/pdf/2009.02835
+    web: https://arxiv.org/abs/2009.02835
+    image: ./assets/files/ebert.jpg
+    notes: Accepted
