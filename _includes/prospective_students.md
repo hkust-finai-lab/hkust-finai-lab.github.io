@@ -18,6 +18,5 @@
 <strong>1. </strong>With a bachelor’s or master’s degree in Computer Science, Mathematics, Statistics, Finance, or other related disciplines.<br>
 <strong>2. </strong>Have a strong passion for academic research, a thirst for knowledge, curiosity, and enjoyment of the investigative process.<br>
 <strong>3. </strong>Hard working and a high sense of responsibility.<br>
-<strong>4. </strong>Excellent communication skills and proficiency in English.<br>
-</li>
+<strong>4. </strong>Excellent communication skills and proficiency in English.<br></li>
 </ul>
