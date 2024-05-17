@@ -2,7 +2,7 @@ main:
 
   - title: Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification
     authors: <strong>Zixuan Yuan</strong>, Hao Liu, Haoyi Zhou, Denghui Zhang, Xiao Zhang, Hao Wang, Hui Xiong
-    conference_short: AAAI 2024.
+    conference_short: AAAI 2024
     conference: The 38th Annual AAAI Conference on Artificial Intelligence
     pdf: ./assets/files/Self-Paced.pdf
     page: https://ojs.aaai.org/index.php/AAAI/article/view/29601
