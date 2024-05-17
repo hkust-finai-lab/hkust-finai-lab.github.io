@@ -1,0 +1,10 @@
+@ARTICLE{10345772,
+  author={Yuan, Zixuan and Liu, Junming and Zhou, Haoyi and Zhang, Denghui and Liu, Hao and Zhu, Nengjun and Xiong, Hui},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-13},
+  keywords={Security;Market research;Adaptation models;Finance;Data models;Adaptive learning;Road transportation;Active-Meta learning;deep sequence learning;financial market;high-frequency trading},
+  doi={10.1109/TKDE.2023.3336185}}

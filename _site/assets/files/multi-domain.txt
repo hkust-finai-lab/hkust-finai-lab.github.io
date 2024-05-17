@@ -1,0 +1,20 @@
+@article{DBLP:journals/corr/abs-2112-00963,
+  author       = {Zixuan Yuan and
+                  Yada Zhu and
+                  Wei Zhang and
+                  Ziming Huang and
+                  Guangnan Ye and
+                  Hui Xiong},
+  title        = {Multi-Domain Transformer-Based Counterfactual Augmentation for Earnings
+                  Call Analysis},
+  journal      = {CoRR},
+  volume       = {abs/2112.00963},
+  year         = {2021},
+  url          = {https://arxiv.org/abs/2112.00963},
+  eprinttype    = {arXiv},
+  eprint       = {2112.00963},
+  timestamp    = {Tue, 07 Dec 2021 12:15:54 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2112-00963.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
