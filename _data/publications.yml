@@ -10,24 +10,24 @@ main:
     image: ./assets/files/Self-Paced.jpg
     notes: Published
 
-  - title: ……
-    authors: ……
-    conference_short: ……
-    conference: ……
-    pdf: e.g. https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
-    page: e.g. https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: e.g. ./assets/files/magnetoionic.txt
-    image: e.g. ./assets/files/admi202270196-gra-0001-m.jpg
+  - title: LEVER：Online Adaptive Sequence Learning Framework for High-Frequency Trading
+    authors: <strong>Zixuan Yuan</strong>, Junming Liu, Haoyi Zhou, Denghui Zhang, Hao Liu, Nengjun Zhu, Hui Xiong
+    conference_short: TKDE 2023
+    conference: IEEE Transactions on Knowledge and Data Engineering
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10345772
+    page: https://ieeexplore.ieee.org/document/10345772
+    bibtex: ./assets/files/lever.txt
+    image: ./assets/files/lever.jpg
     notes: Published
 
-  - title: ……
-    authors: ……
-    conference_short: ……
-    conference: ……
-    pdf: e.g. ./assets/files/SSRN-id4328224.pdf
-    page: e.g. https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
-    bibtex: e.g. ./assets/files/flexible.txt
-    image: e.g. ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+  - title: Multi-Domain Transformer-Based Counterfactual Augmentation for Earnings Call Analysis
+    authors: <strong>Zixuan Yuan</strong>, Yada Zhu, Wei Zhang, Hui Xiong
+    conference_short: ICAIF 2023
+    conference: The 4th ACM International Conference on AI in Finance
+    pdf: https://arxiv.org/pdf/2112.00963
+    page: https://arxiv.org/abs/2112.00963
+    bibtex: ./assets/files/multi-domain.txt
+    image: ./assets/files/multi-domain.jpg
     notes: Published
 
   
