@@ -6,7 +6,7 @@ main:
     project: ……
     pdf: e.g. https://goindex.chen-song90.workers.dev/0:/I-V/
     web: e.g. https://goindex.chen-song90.workers.dev/0:/I-V/
-    image: ./assets/img/autova.png
+    image: ./assets/files/STGL.jpg
     notes:
 
   - title: ……
@@ -16,7 +16,7 @@ main:
     pdf: e.g. https://goindex.chen-song90.workers.dev/0:/AHEMS/
     web: e.g. https://goindex.chen-song90.workers.dev/0:/AHEMS/
     # image: e.g. https://blog.songchen.science/images/AHEMS/GUI.png
-    image: ./assets/img/autova.png
+    image: ./assets/files/STGL.jpg
     notes:
 
   - title: ……
@@ -25,7 +25,7 @@ main:
     project: ……
     pdf: e.g. https://goindex.chen-song90.workers.dev/0:/AutoVA/
     web: e.g. https://goindex.chen-song90.workers.dev/0:/AutoVA/
-    image: ./assets/img/autova.png
+    image: ./assets/files/STGL.jpg
     notes: Non-Open Source
 
 
