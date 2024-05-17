@@ -4,7 +4,7 @@
 
 <ul>
 <li><strong style="color: #276cda;">Ph.D. in Data Mining and Business Analytics</strong></li>
-<strong>University:</strong> Rutgers, The State University of New Jersey
+<strong>University:</strong> Rutgers, The State University of New Jersey<br>
 <strong>Years:</strong> 2018-2023<br>
 <strong>Advisor:</strong> Prof. Hui Xiong<br>
 <li><strong style="color: #276cda;">M.S. in Information Technology</strong></li>
