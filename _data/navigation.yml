@@ -13,11 +13,11 @@ main:
   - title: "Publications"
     url: ./#publications
 
-  - title: "Projects"
-    url: ./#projects
-
   - title: "News"
     url: ./#news
+
+  - title: "Teaching"
+    url: ./#teaching
 
   - title: "Bio"
     url: ./#about-me
