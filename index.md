@@ -14,9 +14,8 @@ Zixuan Yuan is an Assistant Professor at the FinTech Thrust, HKUST (Guangzhou). 
 
 - **LLM-driven Financial Text Mining**
 - **Graph Learning**
-- **Interpretable AI**
 - **Self-supervised Learning**
-- **Knowledge Graphs Construction & Reasoning**
+- **Interpretable AI**
 
 {% include_relative _includes/education.md %}
 
