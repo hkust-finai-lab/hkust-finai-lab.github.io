@@ -4,7 +4,7 @@
 
 <ul>
 <strong style="color: #276cda;">Past Courses</strong><br>
-<li><strong>HKUST(GZ)</strong><br>
+<li><strong>Hong Kong University of Science and Technology (Guangzhou)</strong><br>
 <strong>[2023 Fall]</strong> FTEC 5050 Machine Learning and Artificial Intelligence<br></li>
 <li><strong>Rutgers University</strong><br>
 <strong>[2022 Summer]</strong> 29:623:311:B7 Production and Operations Management<br>
