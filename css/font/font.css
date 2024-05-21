@@ -1,11 +1,11 @@
-/* chinese */
-@font-face {
-  font-family: 'My Chinese Font';
-  font-style: normal;
-  font-weight: 400;
-  src: local('My Chinese Font'), url(/css/font/MyChineseFont.ttf) format('TrueType');
-  unicode-range: U+4E00-9FFF;
-}
+/*!* chinese *!*/
+/*@font-face {*/
+/*  font-family: 'My Chinese Font';*/
+/*  font-style: normal;*/
+/*  font-weight: 400;*/
+/*  src: local('My Chinese Font'), url(/css/font/MyChineseFont.ttf) format('TrueType');*/
+/*  unicode-range: U+4E00-9FFF;*/
+/*}*/
 /* cyrillic-ext */
 @font-face {
   font-family: 'Source Code Pro';
