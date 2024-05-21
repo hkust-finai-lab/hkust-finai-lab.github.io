@@ -8,7 +8,7 @@
 <strong>Enrollment:</strong> 2024 Academic Year<br>
 <strong>Funding:</strong> HKUST Ph.D. Scholarship or Assistantship (around 15K RMB per month)<br>
 <strong>Application Deadline:</strong> – 1st batch, Oct. 28, 2023 – 2nd batch, February 28, 2024<br>
-<strong>Advisorship:</strong> Advised by Dr. Zixuan Yuan or co-advised by Dr. Zixuan Yuan and <span style="color:#e74d3c"><a href="http://datamining.rutgers.edu/">Dr. Hui Xiong</a></span><br></li>
+<strong>Advisorship:</strong> Advised by Dr. Zixuan Yuan or co-advised by Dr. Zixuan Yuan and <strong style="color:#39c"><a href="http://datamining.rutgers.edu/">Dr. Hui Xiong</a></strong><br></li>
 
 <li><strong>Research Assistant or Intern</strong><br>
 <strong>For HKUST students:</strong> feel free to drop me an email or stop by my office.<br>

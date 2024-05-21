@@ -3,7 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-<!-- <li><strong>[Nov. 2023]</strong> <span style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net/?/I-V/">I-V Measurement System</a></span> has been released.</li> -->
+<!-- <li><strong>[Nov. 2023]</strong> <strong style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net/?/I-V/">I-V Measurement System</a></strong> has been released.</li> -->
 <li><strong>[May. 2024]</strong> Two papers got accepted to <span style="color:#e74d3c"><a href="https://kdd2024.kdd.org/">KDD’24.</a></span> </li>
 <li><strong>[May. 2024]</strong> One papers got accepted to <span style="color:#e74d3c"><a href="https://ijcai24.org/">IJCAI'24.</a></span> </li>
 <li><strong>[Dec. 2023]</strong> One paper on <span style="color:#e74d3c"><a href="https://aaai.org/wp-content/uploads/2024/02/AAAI-24_Main_2024-02-01.pdf">multi-label classification</a></span> got accepted to <span style="color:#e74d3c"><a href="https://aaai.org/aaai-conference/">AAAI’24.</a></span> </li>
