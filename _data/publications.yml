@@ -105,7 +105,7 @@ main:
 
   - title: Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment
     authors: Denghui Zhang, <strong>Zixuan Yuan</strong>, Yanchi Liu, Hao Liu, Zuohui Fu, Fuzhen Zhuang, Hui Xiong, and Haifeng Chen
-    conference_short: KDD 2021
+    conference_short: KDD 2021 (Research Track)
     conference: The 27rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2021) (Research Track)
     #abstract: ……
     pdf: https://dl.acm.org/doi/pdf/10.1145/3447548.3467215
@@ -116,7 +116,7 @@ main:
 
   - title: Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
     authors: Shengming Zhang, Hao Zhong, <strong>Zixuan Yuan</strong>, and Hui Xiong
-    conference_short: KDD 2021
+    conference_short: KDD 2021 (Research Track)
     conference: The 27rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2021) (Research Track)
     #abstract: ……
     pdf: https://dl.acm.org/doi/pdf/10.1145/3447548.3467383

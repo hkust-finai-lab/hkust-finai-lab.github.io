@@ -13,7 +13,7 @@
 <li><strong>[Nov. 2023]</strong> Joined <strong>HKUST</strong> as an <span style="color:#e74d3c"><a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=1689033759518887936">assistant professor</a></span> in FinTech Thrust. </li>
 <li><strong>[Aug. 2022]</strong> Invited as a <strong>PC member</strong> for <span style="color:#e74d3c"><a href="https://aaai-23.aaai.org/">AAAI’23.</a></span> </li>
 <li><strong>[Aug. 2022]</strong> One paper on <span style="color:#e74d3c"><a href="https://ieeexplore.ieee.org/document/9869708">product representation learning</a></span> got accepted to <span style="color:#e74d3c"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE TKDE.</a></span> </li>
-<li><strong>[Apr. 2022]</strong> Served as a <strong>session chair</strong> at <span style="color:#e74d3c"><a href="https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-INFORMS-Annual-Meeting">INFORMS 2022.</a></span> </li>
+<li><strong>[Apr. 2022]</strong> Served as a <strong>session chair</strong> at <span style="color:#e74d3c"><a href="https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-INFORMS-Annual-Meeting">INFORMS’22.</a></span> </li>
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none">
 <li><strong>[Dec. 2021]</strong> One paper on <span style="color:#e74d3c"><a href="https://aaai-2022.virtualchair.net/poster_aaai4569">KG reasoning</a></span> got accepted to <span style="color:#e74d3c"><a href="https://aaai.org/conference/aaai/aaai-22/">AAAI’22</a></span> <strong>(15% acceptance rate).</strong></li>
