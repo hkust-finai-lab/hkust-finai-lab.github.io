@@ -7,9 +7,6 @@ main:
   - title: "Prospective Students"
     url: ./#prospective_students
 
-  - title: "Conferences & Events"
-    url: ./#conferences
-
   - title: "Publications"
     url: ./#publications
 
