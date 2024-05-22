@@ -78,7 +78,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 20px; /* 控制每个条目之间的间距 */
+    margin-bottom: 10px; /* 控制每个条目之间的间距 */
     width: 100%;
 }
 
