@@ -13,11 +13,16 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" style="width=80%;height=auto">
+[//]: # (  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">)
 
-[//]: # (    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100%;height=auto">)
-            <abbr class="badge">{{ link.conference_short }}</abbr>
+[//]: # (    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100%;height=auto">&#41;)
+
+[//]: # (            <abbr class="badge">{{ link.conference_short }}</abbr>)
+
+[//]: # (  </div>)
+  <div class="abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="{{ link.image }}" style="width=80%;height=auto; display: block;">
+    <abbr class="badge" style="display: block;">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
