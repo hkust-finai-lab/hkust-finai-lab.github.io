@@ -83,8 +83,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publication-entry .col-sm-12.abbr {
     text-align: center;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding: 15px;
 }
 
 .publication-entry .teaser {
@@ -98,7 +97,15 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 }
 
 .publication-entry .col-sm-12 {
-    padding-right: 15px;
-    padding-left: 15px;
+    padding: 15px;
     text-align: center;
+}
+
+.publication-entry .title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.publication-entry .author, .publication-entry .periodical, .publication-entry .links {
+    margin-bottom: 5px;
 }
