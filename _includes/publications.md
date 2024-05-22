@@ -13,7 +13,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-9 abbr" style="position: relative; padding-right: 15px; padding-left: 15px; display: flex; flex-direction: column; align-items: center;">
+  <div class="col-sm-6 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
       <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 80%; height: auto;">
       <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
