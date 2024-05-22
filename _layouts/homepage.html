@@ -54,7 +54,12 @@
       }
       }
    </script>
-   
+
+    <style>
+      .inline-title {
+        display: inline-block;
+      }
+    </style>
 
   </head>
   <body>
@@ -100,8 +105,8 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title1 }}</h1>
-        <h3>{{ site.title2 }}</h3>
+        <h1 class="inline-title">{{ site.title1 }}</h1>
+        <h3 class="inline-title">{{ site.title2 }}</h3>
 
 <!--        {% if site.position %}-->
 <!--        <position style="font-size:1.10rem;">Assistant Professor <span style="font-family: 'My Chinese Font';">(袁子轩)</span></position>-->
