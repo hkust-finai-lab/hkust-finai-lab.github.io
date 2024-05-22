@@ -1,7 +1,7 @@
 main:
 
   - title: Killing Two Birds with One Stone：Cross-modal Reinforced Prompting for Graph and Language Tasks
-    authors: Wenyuan Jiang, Wenwei Wu, Le Zhang, <strong>Zixuan Yuan</strong>, Jingbo Zhou, Hui Xiong
+    authors: Wenyuan Jiang*, Wenwei Wu*, Le Zhang*, <strong>Zixuan Yuan†</strong>, Jingbo Zhou, Hui Xiong†
     conference_short: KDD 2024 (Research Track)
     conference: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
     pdf: 
@@ -12,7 +12,7 @@ main:
 
 
   - title: Optimized Cost Per Click in Online Advertising：A Theoretical Analysis
-    authors: Wenyuan Jiang, Wenwei Wu, Le Zhang, <strong>Zixuan Yuan</strong>, Jingbo Zhou, Hui Xiong
+    authors: Kaichen Zhang, <strong>Zixuan Yuan</strong>, Hui Xiong†
     conference_short: KDD 2024 (Research Track)
     conference: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
     pdf: 
@@ -32,7 +32,7 @@ main:
     notes: Accepted
 
   - title: Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification
-    authors: <strong>Zixuan Yuan*</strong>, Hao Liu*, Haoyi Zhou, Denghui Zhang, Xiao Zhang, Hao Wang, Hui Xiong†
+    authors: <strong>Zixuan Yuan</strong>, Hao Liu, Haoyi Zhou, Denghui Zhang, Xiao Zhang, Hao Wang, Hui Xiong†
     conference_short: AAAI 2024
     conference: The 38th Annual AAAI Conference on Artificial Intelligence
     pdf: ./assets/files/Self-Paced.pdf
