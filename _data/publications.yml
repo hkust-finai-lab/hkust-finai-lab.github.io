@@ -7,7 +7,7 @@ main:
     pdf: 
     web:
     bibtex: 
-    image: ./assets/files/frame.jpg
+    image: ./assets/files/frame.png
     notes: Accepted
 
 
