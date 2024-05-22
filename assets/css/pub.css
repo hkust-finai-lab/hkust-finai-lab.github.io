@@ -87,9 +87,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 }
 
 .publication-entry .teaser {
-    width: 80%;
-    height: auto;
-    object-fit: contain;
+    width: 800px;
+    height: 600px;
+    object-fit: cover;
     margin-bottom: 10px;
 }
 

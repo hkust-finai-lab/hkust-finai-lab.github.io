@@ -14,7 +14,7 @@
 <li>
 <div class="publication-entry">
   <div class="col-sm-12 abbr" style="text-align: center; padding: 15px;">
-      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 80%; height: auto; object-fit: contain; margin-bottom: 10px;">
+      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 800px; height: 600px; object-fit: cover; margin-bottom: 10px;">
       <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-12" style="padding: 15px; text-align: center;">
@@ -46,6 +46,7 @@
       </div>
   </div>
 </div>
+
 
 
 </li>
