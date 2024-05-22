@@ -79,17 +79,21 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     flex-direction: column;
     align-items: center;
     margin-bottom: 20px; /* 控制每个条目之间的间距 */
+    width: 100%;
 }
 
 .publication-entry .col-sm-12.abbr {
     text-align: center;
     padding: 15px;
+    width: 100%;
 }
 
 .publication-entry .teaser {
-    width: 80%;
+    width: 100%; /* 使用100%宽度 */
+    max-width: 800px; /* 设置最大宽度 */
     height: auto;
     margin-bottom: 10px;
+    object-fit: contain; /* 确保图片不变形 */
 }
 
 .publication-entry .badge {
@@ -99,6 +103,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publication-entry .col-sm-12 {
     padding: 15px;
     text-align: center;
+    width: 100%;
 }
 
 .publication-entry .title {
@@ -109,3 +114,4 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publication-entry .author, .publication-entry .periodical, .publication-entry .links {
     margin-bottom: 5px;
 }
+
