@@ -74,7 +74,17 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
 
+.publications .col-sm-3.abbr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .publications img {
     width: 80%; /* 设置宽度一致 */
     height: auto; /* 使垂直高度任意 */
+}
+
+.publications .badge {
+    margin-top: 10px; /* 在图片与标记之间添加间距 */
 }
