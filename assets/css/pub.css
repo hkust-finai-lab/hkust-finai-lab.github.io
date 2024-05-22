@@ -92,7 +92,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     width: 100%; /* 使用100%宽度 */
     max-width: 800px; /* 设置最大宽度 */
     height: auto;
-    margin-bottom: 20px; /* 确保图片和文字之间有足够的间距 */
+    margin-bottom: 40px; /* 确保图片和文字之间有足够的间距 */
     object-fit: contain; /* 确保图片不变形 */
 }
 
@@ -104,7 +104,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     padding: 15px;
     text-align: center;
     width: 100%;
-    margin-top: 20px; /* 增加文字部分与图片的间距 */
+    margin-top: 40px; /* 增加文字部分与图片的间距 */
 }
 
 .publication-entry .title {
