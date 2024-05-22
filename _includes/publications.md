@@ -13,11 +13,11 @@
 
 <li>
 <div class="publication-entry">
-  <div class="col-sm-3 abbr" style="display: flex; flex-direction: column; align-items: center; padding-right: 15px; padding-left: 15px;">
-      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto;">
+  <div class="col-sm-12 abbr" style="text-align: center; padding-right: 15px; padding-left: 15px;">
+      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 80%; height: auto; margin-bottom: 10px;">
       <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
-  <div class="col-sm-6" style="padding-right: 15px; padding-left: 20px;">
+  <div class="col-sm-12" style="padding-right: 15px; padding-left: 15px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
