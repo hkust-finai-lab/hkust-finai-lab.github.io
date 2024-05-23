@@ -17,7 +17,7 @@
       <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
       <abbr class="badge" style="position: absolute; top: 10px; left: 10px;">{{ link.conference_short }}</abbr>
   </div>
-  <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 20px;">
+  <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
