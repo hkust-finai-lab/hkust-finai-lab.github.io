@@ -78,7 +78,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 5px; /* 控制每个条目之间的间距 */
+    margin-bottom: 40px; /* 控制每个条目之间的间距 */
     width: 100%;
 }
 
@@ -86,6 +86,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     text-align: center;
     padding: 15px;
     width: 100%;
+    position: relative; /* 确保子元素可以绝对定位 */
 }
 
 .publication-entry .teaser {
@@ -98,13 +99,20 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publication-entry .badge {
     margin-top: 10px;
+    position: absolute; /* 绝对定位 */
+    top: 10px; /* 距离顶部10px */
+    left: 10px; /* 距离左侧10px */
+    background-color: rgba(0, 0, 0, 0.7); /* 添加背景颜色和透明度 */
+    color: white; /* 文字颜色 */
+    padding: 5px 10px; /* 内边距 */
+    border-radius: 5px; /* 圆角 */
 }
 
 .publication-entry .col-sm-12 {
     padding: 15px;
     text-align: center;
     width: 100%;
-    margin-top: 15px; /* 增加文字部分与图片的间距 */
+    margin-top: 20px; /* 增加文字部分与图片的间距 */
 }
 
 .publication-entry .title {
