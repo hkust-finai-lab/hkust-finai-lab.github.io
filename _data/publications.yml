@@ -28,7 +28,7 @@ main:
     pdf: 
     web:
     bibtex: 
-    image: ./assets/files/IJCAI.png
+    image: ./assets/files/IJCAI.jpg
     notes: Accepted
 
   - title: Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification
