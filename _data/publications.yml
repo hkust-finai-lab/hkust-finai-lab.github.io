@@ -82,7 +82,7 @@ main:
     notes: Published
 
   - title: Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning
-    authors: Denghui Zhang*, Yanchi Liu†, <strong>Zixuan Yuan*</strong>, Yanjie Fu, Haifeng Chen, Hui Xiong†
+    authors: Denghui Zhang*, Yanchi Liu†, <strong>Zixuan Yuan</strong>, Yanjie Fu, Haifeng Chen, Hui Xiong†
     conference_short: TKDE 2022
     conference: IEEE Transactions on Knowledge and Data Engineering
     #abstract: ……
@@ -93,7 +93,7 @@ main:
     notes: Published
 
   - title: Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching
-    authors: <strong>Zixuan Yuan</strong>, Hao Liu, Junming Liu, Yanchi Liu, Yang Yang, Renjun Hu, and Hui Xiong†
+    authors: <strong>Zixuan Yuan</strong>, Hao Liu†, Junming Liu, Yanchi Liu, Yang Yang, Renjun Hu, and Hui Xiong†
     conference_short: WWW 2021
     conference: In Proceedings of the 28th World Wide Web Conference
     #abstract: ……
@@ -104,7 +104,7 @@ main:
     notes: Published
 
   - title: Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment
-    authors: Denghui Zhang*, <strong>Zixuan Yuan*</strong>, Yanchi Liu†, Hao Liu, Zuohui Fu, Fuzhen Zhuang, Hui Xiong†, and Haifeng Chen
+    authors: Denghui Zhang*, <strong>Zixuan Yuan</strong>, Yanchi Liu†, Hao Liu, Zuohui Fu, Fuzhen Zhuang, Hui Xiong†, and Haifeng Chen
     conference_short: KDD 2021 (Research Track)
     conference: The 27rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2021) (Research Track)
     #abstract: ……
@@ -115,7 +115,7 @@ main:
     notes: Published
 
   - title: Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
-    authors: Shengming Zhang*, Hao Zhong, <strong>Zixuan Yuan*</strong>, and Hui Xiong†
+    authors: Shengming Zhang*, Hao Zhong, <strong>Zixuan Yuan</strong>, and Hui Xiong†
     conference_short: KDD 2021 (Research Track)
     conference: The 27rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2021) (Research Track)
     #abstract: ……
@@ -126,7 +126,7 @@ main:
     notes: Published
 
   - title: Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling
-    authors: <strong>Zixuan Yuan*</strong>, Hao Liu†, Renjun Hu, Denghui Zhang*, and Hui Xiong†
+    authors: <strong>Zixuan Yuan</strong>, Hao Liu†, Renjun Hu, Denghui Zhang, and Hui Xiong†
     conference_short: AAAI 2022
     conference: In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence
     #abstract: ……
@@ -148,7 +148,7 @@ main:
     notes: Published
 
   - title: Spatio-Temporal Dual Graph Attention Network for Query-POI Matching
-    authors: <strong>Zixuan Yuan*</strong>, Hao Liu†*, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu, and Hui Xiong†
+    authors: <strong>Zixuan Yuan*</strong>, Hao Liu*†, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu, and Hui Xiong†
     conference_short: SIGIR 2020
     conference: Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 629-638. 2020.
     #abstract: ……
@@ -159,7 +159,7 @@ main:
     notes: Published
 
   - title: E-BERT：A Phrase and Product Knowledge Enhanced Language Model for E-Commerce
-    authors: Denghui Zhang*, <strong>Zixuan Yuan*</strong>, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong†
+    authors: Denghui Zhang, <strong>Zixuan Yuan</strong>, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong†
     conference_short: WWW 2021
     conference: In Proceedings of the 28th World Wide Web Conference
     #abstract: ……
