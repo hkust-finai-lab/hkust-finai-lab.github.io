@@ -92,6 +92,17 @@ main:
     image: ./assets/files/multi-faceted.jpg
     notes: Published
 
+  - title: Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling
+    authors: <strong>Zixuan Yuan</strong>, Hao Liu†, Renjun Hu, Denghui Zhang, and Hui Xiong†
+    conference_short: AAAI 2022
+    conference: In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence
+    #abstract: ……
+    pdf: ./assets/files/self-supervised.pdf
+    web: https://ojs.aaai.org/index.php/AAAI/article/view/16594
+    bibtex: ./assets/files/self-supervised.txt
+    image: ./assets/files/self-supervised.jpg
+    notes: Published
+
   - title: Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching
     authors: <strong>Zixuan Yuan</strong>, Hao Liu†, Junming Liu, Yanchi Liu, Yang Yang, Renjun Hu, and Hui Xiong†
     conference_short: WWW 2021
@@ -125,17 +136,6 @@ main:
     image: ./assets/files/scalable.jpg
     notes: Published
 
-  - title: Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling
-    authors: <strong>Zixuan Yuan</strong>, Hao Liu†, Renjun Hu, Denghui Zhang, and Hui Xiong†
-    conference_short: AAAI 2022
-    conference: In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence
-    #abstract: ……
-    pdf: ./assets/files/self-supervised.pdf
-    web: https://ojs.aaai.org/index.php/AAAI/article/view/16594
-    bibtex: ./assets/files/self-supervised.txt
-    image: ./assets/files/self-supervised.jpg
-    notes: Published
-
   - title: Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IOT
     authors: Zekai Chen, Dingshuo Chen, Xiao Zhang†, <strong>Zixuan Yuan</strong>, and Xiuzhen Cheng
     conference_short: IEEE 2021
@@ -147,6 +147,17 @@ main:
     image: ./assets/files/LG.jpg
     notes: Published
 
+  - title: E-BERT：Adapting BERT to E-commerce with Adaptive Hybrid Masking and Neighbor Product Reconstruction
+    authors: Denghui Zhang, <strong>Zixuan Yuan</strong>, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong†
+    conference_short: WWW 2021
+    conference: In Proceedings of the 28th World Wide Web Conference
+    #abstract: ……
+    pdf: https://arxiv.org/pdf/2009.02835
+    web: https://arxiv.org/abs/2009.02835
+    bibtex: ./assets/files/ebert.txt
+    image: ./assets/files/ebert.jpg
+    notes: Published
+
   - title: Spatio-Temporal Dual Graph Attention Network for Query-POI Matching
     authors: <strong>Zixuan Yuan*</strong>, Hao Liu*†, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu, and Hui Xiong†
     conference_short: SIGIR 2020
@@ -156,15 +167,4 @@ main:
     web: https://www.researchgate.net/publication/342215590_Spatio-Temporal_Dual_Graph_Attention_Network_for_Query-POI_Matching
     bibtex: ./assets/files/STDGAT.txt
     image: ./assets/files/STDGAT.jpg
-    notes: Published
-
-  - title: E-BERT：A Phrase and Product Knowledge Enhanced Language Model for E-Commerce
-    authors: Denghui Zhang, <strong>Zixuan Yuan</strong>, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong†
-    conference_short: WWW 2021
-    conference: In Proceedings of the 28th World Wide Web Conference
-    #abstract: ……
-    pdf: https://arxiv.org/pdf/2009.02835
-    web: https://arxiv.org/abs/2009.02835
-    bibtex: ./assets/files/ebert.txt
-    image: ./assets/files/ebert.jpg
     notes: Published
