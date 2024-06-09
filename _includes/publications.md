@@ -11,10 +11,10 @@
 {% for link in site.data.publications.main %}
 
 <li>
-<div class="publication-entry">
+<div class="publication-entry" style="margin-bottom: 30px;">
   <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;">
-      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="max-width: 100%; height: auto; object-fit: contain; margin-bottom: 20px;">
-      <abbr class="badge" style="position: absolute; top: 10px; left: 10px;">{{ link.conference_short }}</abbr>
+      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: auto; height: auto; object-fit: contain; margin-bottom: 20px;">
+      <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: blue; color: white; padding: 5px;">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
