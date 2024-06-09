@@ -2,7 +2,6 @@
 
 <h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=lxrXMY0AAAAJ&hl=en&oi=ao" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Zixuan-Yuan" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">]</temp></h2><br>
 
-
  \* means equal contribution.<br>
  † means corresponding authors.
 
@@ -14,7 +13,7 @@
 <li>
 <div class="publication-entry">
   <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;">
-      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
+      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="max-width: 100%; height: auto; object-fit: contain; margin-bottom: 20px;">
       <abbr class="badge" style="position: absolute; top: 10px; left: 10px;">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
