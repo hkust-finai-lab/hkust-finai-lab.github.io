@@ -133,7 +133,7 @@
 {% for link in site.data.publications.main4 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 290px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
@@ -173,7 +173,7 @@
 {% for link in site.data.publications.main5 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 290px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
@@ -213,7 +213,7 @@
 {% for link in site.data.publications.main6 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 290px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
@@ -253,7 +253,7 @@
 {% for link in site.data.publications.main7 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
@@ -293,7 +293,7 @@
 {% for link in site.data.publications.main8 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 90px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
@@ -333,7 +333,7 @@
 {% for link in site.data.publications.main9 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 90px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
@@ -373,7 +373,7 @@
 {% for link in site.data.publications.main10 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 120px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
@@ -414,7 +414,7 @@
 {% for link in site.data.publications.main11 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 500px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
@@ -454,7 +454,7 @@
 {% for link in site.data.publications.main12 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 90px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
@@ -494,7 +494,7 @@
 {% for link in site.data.publications.main13 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 450px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
@@ -534,7 +534,7 @@
 {% for link in site.data.publications.main14 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 100px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
@@ -574,7 +574,7 @@
 {% for link in site.data.publications.main15 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
-          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 600px;">
+          <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 650px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
