@@ -9,7 +9,9 @@
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
-
+{% if forloop.counter == 3 %}
+        {% break %}
+    {% endif %}
 <li>
 <div class="publication-entry" style="margin-bottom: 30px;">
   <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;">
@@ -48,47 +50,46 @@
 
 </li>
 {% endfor %}
-{% for link in site.data.publications.main %}
+
 <li>
     <div class="publication-entry" style="margin-bottom: 30px;">
       <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 350px;">
-          <img src="{{ link.image1 }}" class="teaser img-fluid z-depth-1" style="width: auto; height: auto; object-fit: contain; margin-bottom: 20px;">
-          <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short1 }}</abbr>
+          <img src="{{ site.data.publications.main.image1 }}" class="teaser img-fluid z-depth-1" style="width: auto; height: auto; object-fit: contain; margin-bottom: 20px;">
+          <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ site.data.publications.main.conference_short1 }}</abbr>
       </div>
       <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
-          <div class="title"><a href="{{ link.pdf1 }}">{{ link.title1 }}</a></div>
-          <div class="author">{{ link.authors1 }}</div>
-          <div class="periodical"><em>{{ link.conference1 }}</em></div>
+          <div class="title"><a href="{{ site.data.publications.main.pdf1 }}">{{ site.data.publications.main.title1 }}</a></div>
+          <div class="author">{{ site.data.publications.main.authors1 }}</div>
+          <div class="periodical"><em>{{ site.data.publications.main.conference1 }}</em></div>
           <div class="links">
-            {% if link.pdf1 %} 
-            <a href="{{ link.pdf1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            {% if site.data.publications.main.pdf1 %} 
+            <a href="{{ site.data.publications.main.pdf1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
             {% endif %}
-            {% if link.code1 %} 
-            <a href="{{ link.code1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+            {% if site.data.publications.main.code1 %} 
+            <a href="{{ site.data.publications.main.code1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
             {% endif %}
-            {% if link.page1 %} 
-            <a href="{{ link.page1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+            {% if site.data.publications.main.page1 %} 
+            <a href="{{ site.data.publications.main.page1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
             {% endif %}
-            {% if link.bibtex1 %} 
-            <a href="{{ link.bibtex1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+            {% if site.data.publications.main.bibtex1 %} 
+            <a href="{{ site.data.publications.main.bibtex1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
             {% endif %}
-            {% if link.web1 %} 
-            <a href="{{ link.web1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+            {% if site.data.publications.main.web1 %} 
+            <a href="{{ site.data.publications.main.web1 }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
             {% endif %}
-            {% if link.notes1 %} 
-            <strong> <i style="color:#e74d3c">{{ link.notes1 }}</i></strong>
+            {% if site.data.publications.main.notes1 %} 
+            <strong> <i style="color:#e74d3c">{{ site.data.publications.main.notes1 }}</i></strong>
             {% endif %}
-            {% if link.others1 %} 
-            {{ link.others1 }}
+            {% if site.data.publications.main.others1 %} 
+            {{ site.data.publications.main.others1 }}
             {% endif %}
           </div>
       </div>
     </div>
-    
-    </li>
-    {% endfor %}
-    {% for link in site.data.publications.main %}
-    <li>
+</li>
+
+{% for link in site.data.publications.main2 %}
+<li>
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: auto; height: auto; object-fit: contain; margin-bottom: 20px;">
@@ -124,9 +125,7 @@
           </div>
         </div>
         
-        </li>
-<br>
-
+</li>
 {% endfor %}
-
+<br>
 

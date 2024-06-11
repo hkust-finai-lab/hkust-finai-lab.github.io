@@ -28,8 +28,10 @@ main:
     pdf1:
     web1:
     bibtex1:
-    image1: ./assets/files/IJCAI2.png
+    image1: ./assets/files/IJCAI.png
     notes1: Accepted
+
+main2:
 
   - title2: Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification
     authors2: <strong>Zixuan Yuan</strong>, Hao Liu, Haoyi Zhou, Denghui Zhang, Xiao Zhang, Hao Wang, Hui Xiong†
