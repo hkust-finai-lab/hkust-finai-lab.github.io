@@ -21,6 +21,7 @@ main:
     image: ./assets/files/OP.jpg
     notes: Accepted
 
+main3:
   - title1: R2V-MIF：Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation
     authors1: Nengjun Zhu, Jieyun Huang, Jian Cao, Liang Hu, <strong>Zixuan Yuan</strong>, Huanjing Gao
     conference_short1: IJCAI 2024
