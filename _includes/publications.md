@@ -47,7 +47,8 @@
 </div>
 
 </li>
-
+{% endfor %}
+{% for link in site.data.publications.main %}
 <li>
     <div class="publication-entry" style="margin-bottom: 30px;">
       <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 350px;">
@@ -85,8 +86,8 @@
     </div>
     
     </li>
-
-
+    {% endfor %}
+    {% for link in site.data.publications.main %}
     <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;">
