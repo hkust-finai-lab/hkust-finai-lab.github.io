@@ -1,6 +1,6 @@
 <h1 id="pc_member"></h1>
 
-<h2 style="margin: 30px 0px 10px;">PC Member & Reviewer</h2>
+<h2 style="margin: 30px 0px 10px;">Conference PC Member & Reviewer</h2>
 
 <ul>
   <li>The AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024</li>
