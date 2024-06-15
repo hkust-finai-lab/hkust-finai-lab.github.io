@@ -133,7 +133,7 @@ main11:
     pdf2: https://dl.acm.org/doi/pdf/10.1145/3447548.3467215
     web2: https://dl.acm.org/doi/abs/10.1145/3447548.3467215?casa_token=vVhtjEfms0MAAAAA:zR_x1a4Ccil2l-296TCSdd0YqVFNV09bzXJlq_2ZSdOgKknefyq80ZXZqClpbzuP5rY6wgITpoQt
     bibtex2: ./assets/files/domain.txt
-    image2: ./assets/files/domain.jpg
+    image2: ./assets/files/domain1.jpg
     notes2: Published
 
 main12:
@@ -181,5 +181,5 @@ main15:
     pdf2: ./assets/files/STDGAT.pdf
     web2: https://www.researchgate.net/publication/342215590_Spatio-Temporal_Dual_Graph_Attention_Network_for_Query-POI_Matching
     bibtex2: ./assets/files/STDGAT.txt
-    image2: ./assets/files/STDGAT.jpg
+    image2: ./assets/files/STDGAT1.jpg
     notes2: Published
