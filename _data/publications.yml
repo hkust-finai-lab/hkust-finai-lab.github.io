@@ -181,5 +181,5 @@ main15:
     pdf2: ./assets/files/STDGAT.pdf
     web2: https://www.researchgate.net/publication/342215590_Spatio-Temporal_Dual_Graph_Attention_Network_for_Query-POI_Matching
     bibtex2: ./assets/files/STDGAT.txt
-    image2: ./assets/files/STDGAT.jpg
+    image2: ./assets/files/STDGAT2.jpg
     notes2: Published
