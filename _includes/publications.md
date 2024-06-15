@@ -416,7 +416,7 @@
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 370px;">
               <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 480px; height: auto; object-fit: contain; margin-bottom: 20px;">
-              <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px; padding-right: 70px">{{ link.conference_short2 }}</abbr>
+              <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px; padding-left: 70px">{{ link.conference_short2 }}</abbr>
           </div>
           <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
               <div class="title"><a href="{{ link.pdf2 }}">{{ link.title2 }}</a></div>
