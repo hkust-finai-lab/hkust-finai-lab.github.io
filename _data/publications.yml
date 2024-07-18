@@ -56,12 +56,12 @@ main4:
     notes2: Published
 
 main5:
-  - title2: Multi-Domain Transformer-Based Counterfactual Augmentation for Earnings Call Analysis
+  - title2: Earnings Call Analysis Using a Sparse Attention Based Encoder and Multi-Source Counterfactual Augmentation
     authors2: <strong>Zixuan Yuan</strong>, Yada Zhu, Wei Zhang, Hui Xiong†
     conference_short2: ICAIF 2023
     conference2: The 4th ACM International Conference on AI in Finance
-    pdf2: https://arxiv.org/pdf/2112.00963
-    web2: https://arxiv.org/abs/2112.00963
+    pdf2: https://doi.org/10.1145/3604237.3626839
+    web2: https://doi.org/10.1145/3604237.3626839
     bibtex2: ./assets/files/multi-domain.txt
     image2: ./assets/files/multi-domain.jpg
     notes2: Published
