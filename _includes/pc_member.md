@@ -3,9 +3,10 @@
 <h2 style="margin: 30px 0px 10px;">Conference PC Member & Reviewer</h2>
 
 <ul>
-  <li>The AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024</li>
-  <li>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024</li>
+  <li>The AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024, 2025</li>
+  <li>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024, 2025</li>
   <li>The IEEE ICDM NeuRec-Workshop, 2023</li>
+  <li>ACM International Conference on AI in Finance (ICAIF), 2025</li>
   <li>The International Conference on Information Systems (ICIS), 2024</li>
 </ul>
 
