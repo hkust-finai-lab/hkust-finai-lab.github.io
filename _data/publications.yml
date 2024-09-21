@@ -8,7 +8,7 @@ main:
     pdf: 
     web:
     bibtex: 
-    image: 
+    image: ./assets/files/frame_wine2024.png
     notes: Accepted
 
 
