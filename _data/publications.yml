@@ -1,5 +1,17 @@
 main:
 
+
+  - title: The Impact of Generative Artificial Intelligence on Market Equilibrium: Evidence from a Natural Experiment
+    authors: Kaichen Zhang, <strong>Zixuan Yuan</strong>, Hui Xiong†
+    conference_short: WINE 2024
+    conference: The 20th Conference on Web and Internet Economics
+    pdf: 
+    web:
+    bibtex: 
+    image: 
+    notes: Accepted
+
+
   - title: Killing Two Birds with One Stone：Cross-modal Reinforced Prompting for Graph and Language Tasks
     authors: Wenyuan Jiang*, Wenwei Wu*, Le Zhang*, <strong>Zixuan Yuan†</strong>, Jian Xiang, Jingbo Zhou, Hui Xiong†
     conference_short: KDD 2024 (Research Track)
@@ -8,7 +20,7 @@ main:
     web:
     bibtex: 
     image: ./assets/files/frame.png
-    notes: Accepted
+    notes: Published
 
 
   - title: Optimized Cost Per Click in Online Advertising：A Theoretical Analysis
@@ -19,7 +31,7 @@ main:
     web:
     bibtex: 
     image: ./assets/files/OP.jpg
-    notes: Accepted
+    notes: Published
 
 main3:
   - title1: R2V-MIF：Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation
@@ -30,7 +42,7 @@ main3:
     web1:
     bibtex1:
     image1: ./assets/files/IJCAI.png
-    notes1: Accepted
+    notes1: Published
 
 main2:
 
