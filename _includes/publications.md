@@ -9,7 +9,7 @@
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
-{% if forloop.counter == 3 %}
+{% if forloop.counter == 4 %}
         {% break %}
     {% endif %}
 <li>

@@ -10,6 +10,16 @@ main:
     notes: Accepted
 
 
+  - title:The Impact of Generative Artificial Intelligence on Market Equilibrium: Evidence from a Natural Experiment
+    authors: Kaichen Zhang,<strong>Zixuan Yuan</strong>, Hui Xiong†
+    conference_short: WINE 2024
+    conference: The 20th Conference on Web and Internet Economics
+    pdf:
+    web:
+    bibtex:
+    image: ./assets/files/frame wine2024.png
+    notes: Accepted
+
   - title: Killing Two Birds with One Stone：Cross-modal Reinforced Prompting for Graph and Language Tasks
     authors: Wenyuan Jiang*, Wenwei Wu*, Le Zhang*, <strong>Zixuan Yuan†</strong>, Jian Xiang, Jingbo Zhou, Hui Xiong†
     conference_short: KDD 2024 (Research Track)
