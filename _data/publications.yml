@@ -21,26 +21,26 @@ main:
     notes: Accepted
 
 main3:
-  - title: Optimized Cost Per Click in Online Advertising：A Theoretical Analysis
-    authors: Kaichen Zhang, <strong>Zixuan Yuan</strong>, Hui Xiong†
-    conference_short: KDD 2024 (Research Track)
-    conference: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
-    pdf: 
-    web:
-    bibtex: 
-    image: ./assets/files/OP.jpg
-    notes: Accepted
-
-main4:
-  - title1: R2V-MIF：Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation
-    authors1: Nengjun Zhu, Jieyun Huang, Jian Cao, Liang Hu, <strong>Zixuan Yuan</strong>, Huanjing Gao
-    conference_short1: IJCAI 2024
-    conference1: The 33rd International Joint Conference on Artificial Intelligence
+  - title1: Optimized Cost Per Click in Online Advertising：A Theoretical Analysis
+    authors1: Kaichen Zhang, <strong>Zixuan Yuan</strong>, Hui Xiong†
+    conference_short1: KDD 2024 (Research Track)
+    conference1: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
     pdf1:
     web1:
     bibtex1:
-    image1: ./assets/files/IJCAI.png
+    image1: ./assets/files/OP.jpg
     notes1: Accepted
+
+main4:
+  - title2: R2V-MIF：Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation
+    authors2: Nengjun Zhu, Jieyun Huang, Jian Cao, Liang Hu, <strong>Zixuan Yuan</strong>, Huanjing Gao
+    conference_short2: IJCAI 2024
+    conference2: The 33rd International Joint Conference on Artificial Intelligence
+    pdf2:
+    web2:
+    bibtex2:
+    image2: ./assets/files/IJCAI.png
+    notes2: Accepted
 
 main5:
 
