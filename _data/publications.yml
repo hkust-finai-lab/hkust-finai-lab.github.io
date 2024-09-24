@@ -1,14 +1,4 @@
 main:
-  - title: The Impact of Generative Artificial Intelligence on Market Equilibrium: Evidence from a Natural Experiment
-    authors: Kaichen Zhang, <strong>Zixuan Yuan</strong>, Hui Xiong†
-    conference_short: WINE 2024
-    conference: The 20th Conference on Web and Internet Economics
-    pdf: 
-    web:
-    bibtex: 
-    image: ./assets/files/frame_wine2024.png
-    notes: Accepted
-
 
   - title:The Impact of Generative Artificial Intelligence on Market Equilibrium: Evidence from a Natural Experiment
     authors: Kaichen Zhang,<strong>Zixuan Yuan</strong>, Hui Xiong†
@@ -28,9 +18,9 @@ main:
     web:
     bibtex: 
     image: ./assets/files/frame.png
-    notes: Published
+    notes: Accepted
 
-main15:
+main3:
   - title: Optimized Cost Per Click in Online Advertising：A Theoretical Analysis
     authors: Kaichen Zhang, <strong>Zixuan Yuan</strong>, Hui Xiong†
     conference_short: KDD 2024 (Research Track)
@@ -39,9 +29,9 @@ main15:
     web:
     bibtex: 
     image: ./assets/files/OP.jpg
-    notes: Published
+    notes: Accepted
 
-main14:
+main4:
   - title1: R2V-MIF：Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation
     authors1: Nengjun Zhu, Jieyun Huang, Jian Cao, Liang Hu, <strong>Zixuan Yuan</strong>, Huanjing Gao
     conference_short1: IJCAI 2024
@@ -50,9 +40,9 @@ main14:
     web1:
     bibtex1:
     image1: ./assets/files/IJCAI.png
-    notes1: Published
+    notes1: Accepted
 
-main13:
+main5:
 
   - title2: Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification
     authors2: <strong>Zixuan Yuan</strong>, Hao Liu, Haoyi Zhou, Denghui Zhang, Xiao Zhang, Hao Wang, Hui Xiong†
@@ -64,7 +54,7 @@ main13:
     image2: ./assets/files/Self-Paced.jpg
     notes2: Published
 
-main12:
+main6:
   - title2: LEVER：Online Adaptive Sequence Learning Framework for High-Frequency Trading
     authors2: <strong>Zixuan Yuan</strong>, Junming Liu, Haoyi Zhou, Denghui Zhang, Hao Liu, Nengjun Zhu, Hui Xiong†
     conference_short2: TKDE 2023
@@ -75,18 +65,18 @@ main12:
     image2: ./assets/files/lever.jpg
     notes2: Published
 
-main11:
-  - title2: Earnings Call Analysis Using a Sparse Attention Based Encoder and Multi-Source Counterfactual Augmentation
+main7:
+  - title2: Multi-Domain Transformer-Based Counterfactual Augmentation for Earnings Call Analysis
     authors2: <strong>Zixuan Yuan</strong>, Yada Zhu, Wei Zhang, Hui Xiong†
     conference_short2: ICAIF 2023
     conference2: The 4th ACM International Conference on AI in Finance
-    pdf2: https://doi.org/10.1145/3604237.3626839
-    web2: https://doi.org/10.1145/3604237.3626839
+    pdf2: https://arxiv.org/pdf/2112.00963
+    web2: https://arxiv.org/abs/2112.00963
     bibtex2: ./assets/files/multi-domain.txt
     image2: ./assets/files/multi-domain.jpg
     notes2: Published
 
-main10:
+main8:
   - title2: AlphaVC：A Reinforcement Learning-based Venture Capital Investment Strategy
     authors2: <strong>Ziyuan Xuan*</strong>, Denghui Zhang*, Hao Zhong, Shengming Zhang, Hui Xiong†
     conference_short2: INFORMS 2022
@@ -108,7 +98,7 @@ main9:
     image2: ./assets/files/two.jpg
     notes2: Published
 
-main8:
+main10:
   - title2: Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning
     authors2: Denghui Zhang*, Yanchi Liu†, <strong>Zixuan Yuan</strong>, Yanjie Fu, Haifeng Chen, Hui Xiong†
     conference_short2: TKDE 2022
@@ -120,7 +110,7 @@ main8:
     image2: ./assets/files/multi-faceted.jpg
     notes2: Published
 
-main7:
+main11:
   - title2: Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling
     authors2: <strong>Zixuan Yuan</strong>, Hao Liu†, Renjun Hu, Denghui Zhang, and Hui Xiong†
     conference_short2: AAAI 2022
@@ -132,7 +122,7 @@ main7:
     image2: ./assets/files/self-supervised.jpg
     notes2: Published
 
-main6:
+main12:
   - title2: Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching
     authors2: <strong>Zixuan Yuan</strong>, Hao Liu†, Junming Liu, Yanchi Liu, Yang Yang, Renjun Hu, and Hui Xiong†
     conference_short2: WWW 2021
@@ -144,7 +134,7 @@ main6:
     image2: ./assets/files/STGL.jpg
     notes2: Published
 
-main5:
+main13:
   - title2: Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment
     authors2: Denghui Zhang*, <strong>Zixuan Yuan</strong>, Yanchi Liu†, Hao Liu, Zuohui Fu, Fuzhen Zhuang, Hui Xiong†, and Haifeng Chen
     conference_short2: KDD 2021 (Research Track)
@@ -156,7 +146,7 @@ main5:
     image2: ./assets/files/domain.jpg
     notes2: Published
 
-main4:
+main14:
   - title2: Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
     authors2: Shengming Zhang*, Hao Zhong, <strong>Zixuan Yuan</strong>, and Hui Xiong†
     conference_short2: KDD 2021 (Research Track)
@@ -168,7 +158,7 @@ main4:
     image2: ./assets/files/scalable.jpg
     notes2: Published
 
-main3:
+main15:
   - title2: Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IOT
     authors2: Zekai Chen, Dingshuo Chen, Xiao Zhang†, <strong>Zixuan Yuan</strong>, and Xiuzhen Cheng
     conference_short2: IEEE 2021
@@ -180,7 +170,7 @@ main3:
     image2: ./assets/files/LG.jpg
     notes2: Published
 
-main2:
+main16:
   - title2: E-BERT：Adapting BERT to E-commerce with Adaptive Hybrid Masking and Neighbor Product Reconstruction
     authors2: Denghui Zhang, <strong>Zixuan Yuan</strong>, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong†
     conference_short2: WWW 2021
@@ -192,7 +182,7 @@ main2:
     image2: ./assets/files/ebert.jpg
     notes2: Published
 
-main1:
+main17:
   - title2: Spatio-Temporal Dual Graph Attention Network for Query-POI Matching
     authors2: <strong>Zixuan Yuan*</strong>, Hao Liu*†, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu, and Hui Xiong†
     conference_short2: SIGIR 2020
