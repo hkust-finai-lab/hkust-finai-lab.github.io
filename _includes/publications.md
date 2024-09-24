@@ -55,7 +55,7 @@
 <li>
     <div class="publication-entry" style="margin-bottom: 30px;">
       <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 290px;">
-          <img src="{{ link.image1 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 450px; height: auto; object-fit: contain; margin-bottom: 20px;">
+          <img src="{{ link.image1 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
           <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px; margin-left: 90px">{{ link.conference_short1 }}</abbr>
       </div>
       <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
@@ -94,7 +94,7 @@
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;">
-              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
+              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 450px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
           <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
@@ -174,7 +174,7 @@
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 185px;">
-              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 480px; height: auto; object-fit: contain; margin-bottom: 20px;">
+              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px; margin-left: 90px">{{ link.conference_short2 }}</abbr>
           </div>
           <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
@@ -214,7 +214,7 @@
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 270px;">
-              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
+              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 480px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
           <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
@@ -415,7 +415,7 @@
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 340px;">
-              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 440px; height: auto; object-fit: contain; margin-bottom: 20px;">
+              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px; margin-left: 70px">{{ link.conference_short2 }}</abbr>
           </div>
           <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
@@ -455,7 +455,7 @@
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 175px;">
-              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
+              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 440px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px;">{{ link.conference_short2 }}</abbr>
           </div>
           <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
@@ -495,7 +495,7 @@
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 302px;">
-              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 550px; height: auto; object-fit: contain; margin-bottom: 20px;">
+              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 800px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px; margin-left: 50px">{{ link.conference_short2 }}</abbr>
           </div>
           <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
@@ -535,7 +535,7 @@
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 200px;">
-              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 560px; height: auto; object-fit: contain; margin-bottom: 20px;">
+              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 550px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px; margin-left: 40px">{{ link.conference_short2 }}</abbr>
           </div>
           <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
@@ -575,7 +575,7 @@
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 330px;">
-              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 510px; height: auto; object-fit: contain; margin-bottom: 20px;">
+              <img src="{{ link.image2 }}" class="teaser img-fluid z-depth-1" style="width: 100%; max-width: 560px; height: auto; object-fit: contain; margin-bottom: 20px;">
               <abbr class="badge" style="position: absolute; top: 10px; left: 10px; background: #002D72; color: white; padding: 5px; margin-left: 70px">{{ link.conference_short2 }}</abbr>
           </div>
           <div class="col-sm-12" style="padding: 15px; text-align: center; margin-top: 15px;">
