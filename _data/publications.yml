@@ -1,13 +1,13 @@
 main0_added:
-  - title:The Impact of Generative Artificial Intelligence on Market Equilibrium: Evidence from a Natural Experiment
-    authors: Kaichen Zhang,<strong>Zixuan Yuan</strong>, Hui Xiong†
-    conference_short: WINE 2024
-    conference: The 20th Conference on Web and Internet Economics
-    pdf:
-    web:
-    bibtex:
-    image: ./assets/files/frame_wine2024.png
-    notes: Accepted
+  - title2:The Impact of Generative Artificial Intelligence on Market Equilibrium: Evidence from a Natural Experiment
+    authors2: Kaichen Zhang,<strong>Zixuan Yuan</strong>, Hui Xiong†
+    conference_short2: WINE 2024
+    conference2: The 20th Conference on Web and Internet Economics
+    pdf2:
+    web2:
+    bibtex2:
+    image2: ./assets/files/frame wine2024.png
+    notes2: Accepted
 
 main:
   - title: Killing Two Birds with One Stone：Cross-modal Reinforced Prompting for Graph and Language Tasks
@@ -20,26 +20,26 @@ main:
     image: ./assets/files/frame.png
     notes: Accepted
 
-  - title1: Optimized Cost Per Click in Online Advertising：A Theoretical Analysis
-    authors1: Kaichen Zhang, <strong>Zixuan Yuan</strong>, Hui Xiong†
-    conference_short1: KDD 2024 (Research Track)
-    conference1: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
-    pdf1:
-    web1:
-    bibtex1:
-    image1: ./assets/files/OP.jpg
-    notes1: Accepted
+  - title: Optimized Cost Per Click in Online Advertising：A Theoretical Analysis
+    authors: Kaichen Zhang, <strong>Zixuan Yuan</strong>, Hui Xiong†
+    conference_short: KDD 2024 (Research Track)
+    conference: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+    pdf:
+    web:
+    bibtex:
+    image: ./assets/files/OP.jpg
+    notes: Accepted
 
 main3:
-  - title2: R2V-MIF：Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation
-    authors2: Nengjun Zhu, Jieyun Huang, Jian Cao, Liang Hu, <strong>Zixuan Yuan</strong>, Huanjing Gao
-    conference_short2: IJCAI 2024
-    conference2: The 33rd International Joint Conference on Artificial Intelligence
-    pdf2:
-    web2:
-    bibtex2:
-    image2: ./assets/files/IJCAI.png
-    notes2: Accepted
+  - title: R2V-MIF：Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation
+    authors: Nengjun Zhu, Jieyun Huang, Jian Cao, Liang Hu, <strong>Zixuan Yuan</strong>, Huanjing Gao
+    conference_short: IJCAI 2024
+    conference: The 33rd International Joint Conference on Artificial Intelligence
+    pdf:
+    web:
+    bibtex:
+    image: ./assets/files/IJCAI.png
+    notes: Accepted
 
 main4:
   - title2: Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification
