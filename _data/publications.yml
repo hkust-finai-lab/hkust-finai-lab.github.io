@@ -31,15 +31,15 @@ main:
     notes: Accepted
 
 main3:
-  - title: R2V-MIF：Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation
-    authors: Nengjun Zhu, Jieyun Huang, Jian Cao, Liang Hu, <strong>Zixuan Yuan</strong>, Huanjing Gao
-    conference_short: IJCAI 2024
-    conference: The 33rd International Joint Conference on Artificial Intelligence
-    pdf:
-    web:
-    bibtex:
-    image: ./assets/files/IJCAI.png
-    notes: Accepted
+  - title1: R2V-MIF：Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation
+    authors1: Nengjun Zhu, Jieyun Huang, Jian Cao, Liang Hu, <strong>Zixuan Yuan</strong>, Huanjing Gao
+    conference_short1: IJCAI 2024
+    conference1: The 33rd International Joint Conference on Artificial Intelligence
+    pdf1:
+    web1:
+    bibtex1:
+    image1: ./assets/files/IJCAI.png
+    notes1: Accepted
 
 main4:
   - title2: Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification
