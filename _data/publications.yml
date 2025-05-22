@@ -1,4 +1,16 @@
 main0_added:
+  - title2: ClimateIQA: A New Dataset and Benchmark to Advance Vision-Language Models in Meteorology Anomalies Analysis
+    authors2: Jian Chen, Peilin Zhou, Yining Hua, Dading Chong, Meng Cao, Yaowei Li, Wei Chen, Bing Zhu, Junwei Liang†, <strong>Zixuan Yuan†</strong>
+    conference_short2: KDD 2025 (Datasets and Benchmarks Track)
+    conference2: The 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+    pdf2:
+    web2:
+    bibtex2:
+    image2: 
+    notes2: Accepted
+
+
+main0_added:
   - title2: The Impact of Generative Artificial Intelligence on Market Equilibrium：Evidence from a Natural Experiment
     authors2: Kaichen Zhang,<strong>Zixuan Yuan</strong>, Hui Xiong†
     conference_short2: WINE 2024
