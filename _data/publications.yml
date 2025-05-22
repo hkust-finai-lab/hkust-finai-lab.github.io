@@ -19,7 +19,7 @@ main0_added:
     web2:
     bibtex2:
     image2: ./assets/files/frame_wine2024.png
-    notes2: Accepted
+    notes2: Published
 
 main:
   - title: Killing Two Birds with One Stone：Cross-modal Reinforced Prompting for Graph and Language Tasks
