@@ -9,7 +9,7 @@
 <ol class="bibliography">
 
 
-{% for link in site.data.publications.main0_added %}
+{% for link in site.data.publications.main17 %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
           <div class="col-sm-12 abbr" style="position: relative; text-align: center; padding: 15px;height: 100px; padding-bottom: 0px;">
