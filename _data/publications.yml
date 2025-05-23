@@ -19,7 +19,7 @@ main0_added:
     web2:
     bibtex2:
     image2: ./assets/files/frame_wine2024.png
-    notes2: Published
+    notes2: Accepted
 
 main:
   - title: Killing Two Birds with One Stone：Cross-modal Reinforced Prompting for Graph and Language Tasks
@@ -27,7 +27,7 @@ main:
     conference_short: KDD 2024 (Research Track)
     conference: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
     pdf:
-    web:
+    web: https://dl.acm.org/doi/10.1145/3637528.3671742
     bibtex:
     image: ./assets/files/frame.png
     notes: Published
