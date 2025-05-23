@@ -10,6 +10,7 @@
 
 
 {% for link in site.data.publications.main17 %}
+
 {% for link in site.data.publications.main0_added %}
 <li>
         <div class="publication-entry" style="margin-bottom: 30px;">
