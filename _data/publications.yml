@@ -30,7 +30,7 @@ main:
     web:
     bibtex:
     image: ./assets/files/frame.png
-    notes: Accepted
+    notes: Published
 
   - title: Optimized Cost Per Click in Online Advertising：A Theoretical Analysis
     authors: Kaichen Zhang, <strong>Zixuan Yuan</strong>, Hui Xiong†
@@ -40,7 +40,7 @@ main:
     web:
     bibtex:
     image: ./assets/files/OP.jpg
-    notes: Accepted
+    notes: Published
 
 main3:
   - title1: R2V-MIF：Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation
@@ -51,7 +51,7 @@ main3:
     web1:
     bibtex1:
     image1: ./assets/files/IJCAI.png
-    notes1: Accepted
+    notes1: Published
 
 main4:
   - title2: Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification
